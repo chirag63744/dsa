@@ -1,0 +1,8 @@
+Om Ganapathy Namaha 
+
+
+DSA
+
+BINARY SEARCH:
+
+Binary search is only applicable in a sorted search space.In binary search, we generally divide the search space into two equal halves and then try to locate which half contains the target. According to that, we shrink the search space size.
