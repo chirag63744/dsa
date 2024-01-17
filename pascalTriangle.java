@@ -12,7 +12,7 @@
 // }
 
 // public List<Integer> eachRow(int row) {
-// int ans = 1;
+// int ans = 1; jhbkv
 // List<Integer> list = new ArrayList<>();
 // list.add(1);
 
